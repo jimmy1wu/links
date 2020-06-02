@@ -67,6 +67,7 @@ Collection of links / articles that I have found useful.
 ### Databases
 * Postgresql for those who cant even - https://rob.conery.io/2020/01/24/postgresql-for-those-who-cant-even-part-1/
 * Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/
+* 6 Rules of Thumb for MongoDB Schema Design - https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1
 
 ### Docker
 * Intro guide to dockerfile best practices - https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
